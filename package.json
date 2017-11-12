@@ -1,0 +1,25 @@
+{
+  "name": "my-portfolio-site",
+  "version": "1.0.0",
+  "description": "My portfolio and resume site",
+  "main": "./node_modules/http-server/bin/http-server",
+  "scripts": {
+    "dev": "nf start",
+    "start": "./node_modules/http-server/bin/http-server www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatl3y/my-portfolio-site.git"
+  },
+  "author": "Lance Whatley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whatl3y/my-portfolio-site/issues"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {
+    "foreman": "^2.0.0"
+  }
+}
