@@ -17,11 +17,11 @@
     "url": "https://github.com/whatl3y/my-portfolio-site/issues"
   },
   "dependencies": {
-    "@slack/client": "^3.14.2",
+    "@slack/client": "^5.0.2",
     "http-server": "git+https://github.com/whatl3y/http-server.git",
     "request": "^2.83.0"
   },
   "devDependencies": {
-    "foreman": "^2.0.0"
+    "foreman": "^3.0.1"
   }
 }
