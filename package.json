@@ -5,7 +5,7 @@
   "main": "./node_modules/.bin/http-server",
   "scripts": {
     "dev": "nf start",
-    "start": "./node_modules/.bin/http-server www -m ../../../middleware/slack.js"
+    "start": "./node_modules/.bin/http-server www"
   },
   "repository": {
     "type": "git",
